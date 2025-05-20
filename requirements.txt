@@ -4,5 +4,5 @@ pydantic==1.10.7
 python-multipart==0.0.6
 telethon
 numpy
-talib-binary
+ta-lib
 MetaTrader5
